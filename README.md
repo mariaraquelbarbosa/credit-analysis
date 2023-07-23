@@ -1,5 +1,10 @@
-# credit-analysis
-Projeto de Análise de Crédito usando Inteligência Artificial
+# Análise de Crédito usando Machine Learning
+
+O objetivo desse projeto é aplicar um modelo de classificação para simular uma análise de crédito a partir de um conjunto de dados de agências de bancárias encontrado no Kaggle.
+
+Dataset: https://www.kaggle.com/datasets/laotse/credit-risk-dataset
+
+Participantes:
 
 <div align="center">
 
