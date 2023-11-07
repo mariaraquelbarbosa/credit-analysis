@@ -1,6 +1,15 @@
 ![Header](https://github.com/mariaraquelbarbosa/credit-analysis/assets/122839919/988a0dcc-9d02-47a3-bd0f-a3cbdbce5730)
 
 <div align="center">
+ 
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+ <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black" />
+
+</div>
+
+<br>
+
+<div align="center">
 
   **Participantes:** <a href="https://github.com/mariaraquelbarbosa">[![GitHub Badge](https://img.shields.io/badge/Maria_Raquel-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mariaraquelbarbosa)</a>
   <a href="https://github.com/CarlosSilva8">[![GitHub Badge](https://img.shields.io/badge/Carlos_Silva-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CarlosSilva8)
