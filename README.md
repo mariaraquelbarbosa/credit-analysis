@@ -17,6 +17,6 @@
 </div>
 
 # Overview
-O objetivo desse projeto é aplicar um modelo de classificação para simular uma análise de crédito a partir de um [conjunto de dados de agências bancárias encontrado no Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset). Para desenvolver o projeto, foram essencialmente utilizadas duas bibliotecas, sendo elas: [Scikit Learn](https://scikit-learn.org/stable/supervised_learning.html) e [PyCaret](https://pycaret.readthedocs.io/en/latest/api/classification.html).
+O objetivo desse projeto é aplicar um modelo de classificação para simular uma análise de crédito a partir de um [conjunto de dados de agências bancárias](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) encontrado no Kaggle. Para desenvolver o projeto, foram essencialmente utilizadas duas bibliotecas, sendo elas: [Scikit Learn](https://scikit-learn.org/stable/supervised_learning.html) e [PyCaret](https://pycaret.readthedocs.io/en/latest/api/classification.html).
 
 > Status: Concluído ✅ (exceto documentar as análises finais)
